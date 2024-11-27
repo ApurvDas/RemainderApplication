@@ -22,3 +22,5 @@ A simple desktop app to set reminders and get notified when it's time!
 
 ## Sample Screenshot
 
+![python_v4hMuhv5ja](https://github.com/user-attachments/assets/8c1daac0-cd7a-40dd-aa87-dc9580d3789a)
+![python_54y8nin6JH](https://github.com/user-attachments/assets/321e380f-6abc-4614-b32d-1426a45743ab)
